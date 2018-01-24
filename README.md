@@ -7,4 +7,4 @@ Currently, I am on an exchange semester in the United States at Lehigh Universit
 To get to know me better, you can visit me on [Facebook](https://www.facebook.com/manucraze). 
 
 One of my favourite images is this of me atop Mount Rinjani in Lombok, Indonesia
-![alt text] (http://rinjaninationalpark.com/wp-content/uploads/2016/09/gunungrinjanilombok21.jpg) 
+![rinjani] (http://rinjaninationalpark.com/wp-content/uploads/2016/09/gunungrinjanilombok21.jpg) 
