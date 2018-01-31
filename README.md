@@ -16,9 +16,14 @@ So for class today, we had to do an infographic on any topic. Having been in Leh
 ![Infographic Assignment page 1](https://github.com/deechingg/deechingg.github.io/blob/master/Within%20developing%20countries%20in%20particular%2C%20literacy%20rates%20also%20have%20implications%20for%20child%20mortality%3B%20in%20these%20contexts%2C%20children%20of%20literate%20mothers%20are%2050%25%20more%20likely%20to%20live%20past%20age%205%20than%20children%20of%20illiterate/1.png)
 ![Infographic Assignment page 2](https://github.com/deechingg/deechingg.github.io/blob/master/Within%20developing%20countries%20in%20particular%2C%20literacy%20rates%20also%20have%20implications%20for%20child%20mortality%3B%20in%20these%20contexts%2C%20children%20of%20literate%20mothers%20are%2050%25%20more%20likely%20to%20live%20past%20age%205%20than%20children%20of%20illiterate.png)
 
-Thus, A Camry L (2.5L) that costs US$24390 in the US will cost this much in Singapore. 
+Thus, this is how Camry L (2.5L) that costs US$24390 in the US will cost US$114,504 in Singapore. 
 
-| Item  | Cost |
+| *Item*  | *Cost ($USD)* |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| OMV  | 23,959  |
+| ARF  | 27,427  |
+| Excise Duty & GST  | 30,762  |
+| COE  |  32,356 |
+| *Basic Cost*  | *114,504*  |
+| Dealer's Margin (33%) | 28,884  |
+| *Final Sale Price*  |  *143,388*  |
