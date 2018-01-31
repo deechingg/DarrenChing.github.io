@@ -18,12 +18,12 @@ So for class today, we had to do an infographic on any topic. Having been in Leh
 
 Thus, this is how Camry L (2.5L) that costs US$24390 in the US will cost US$114,504 in Singapore. 
 
-| *Item*  | *Cost ($USD)* |
+| **Item**  | **Cost ($USD)** |
 | ------------- | ------------- |
 | OMV  | 23,959  |
 | ARF  | 27,427  |
 | Excise Duty & GST  | 30,762  |
 | COE  |  32,356 |
-| *Basic Cost*  | *114,504*  |
+| **Basic Cost**  | **114,504**  |
 | Dealer's Margin (33%) | 28,884  |
-| *Final Sale Price*  |  *143,388*  |
+| **Final Sale Price**  |  **143,388**  |
