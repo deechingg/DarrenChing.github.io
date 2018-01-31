@@ -30,3 +30,8 @@ Thus, this is how Camry L (2.5L) that costs US$24390 in the US will cost US$114,
 | **Basic Cost**  | **114,504**  |
 | Dealer's Margin (33%) | 28,884  |
 | **Final Sale Price**  |  **143,388**  |
+
+31/1/2018 
+JS Timeline Practice 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=15ei15qE_DpB41u04oTi36xKnwVTuZAWqm-_2i4jkLoI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
