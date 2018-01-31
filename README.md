@@ -17,7 +17,7 @@ So for class today, we had to do an infographic on any topic. Having been in Leh
 
 ![Infographic Assignment page 1](https://github.com/deechingg/deechingg.github.io/blob/master/Infographic%20assignment%20pg1.png?raw=true)
 
-![Infographic Assignment page 2](https://github.com/deechingg/deechingg.github.io/blob/master/Infographic%20assignment%20pg2.png?raw=true)
+![Infographic Assignment page 2](https://github.com/deechingg/deechingg.github.io/blob/master/Infographic%20Assignment%20pg%202.png?raw=true)
 
 Thus, this is how Camry L (2.5L) that costs US$24390 in the US will cost US$114,504 in Singapore. 
 
