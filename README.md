@@ -34,9 +34,7 @@ Thus, this is how Camry L (2.5L) that costs US$24390 in the US will cost US$114,
 31/1/2018 
 JS Timeline Practice 
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=15ei15qE_DpB41u04oTi36xKnwVTuZAWqm-_2i4jkLoI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
 
 For this week's assignment we were asked to tell a story using a timeline. The Singapore story is a miracle. Despite all odds, the nation managed to transform from third world. Here's the story. 
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11K03V2O7eEix_9DHIWqj3YBR9VKLTZ3NLCZ7xCBviIM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.htmlsource=11K03V2O7eEix_9DHIWqj3YBR9VKLTZ3NLCZ7xCBviIM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650'webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
