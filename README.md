@@ -37,5 +37,4 @@ JS Timeline Practice
 
 For this week's assignment we were asked to tell a story using a timeline. The Singapore story is a miracle. Despite all odds, the nation managed to transform from third world to first. Here's the story. 
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11K03V2O7eEix_9DHIWqj3YBR9VKLTZ3NLCZ7xCBviIM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
-</iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11K03V2O7eEix_9DHIWqj3YBR9VKLTZ3NLCZ7xCBviIM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
