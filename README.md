@@ -39,7 +39,7 @@ For this week's assignment we were asked to tell a story using a timeline. The S
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11K03V2O7eEix_9DHIWqj3YBR9VKLTZ3NLCZ7xCBviIM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-OUr next assignment involved building charts to compare a trend that changes over time. This turned out to be a really fast and simple way to turn the data into a line chart. Upon learning about the task I was very excited to be able to share this story with you all. It is a story about football and of course the two bet players on the planet – Lionel Messi and Cristiano Ronaldo
+Our next assignment involved building charts to compare a trend that changes over time. This turned out to be a really fast and simple way to turn the data into a line chart. Upon learning about the task I was very excited to be able to share this story with you all. It is a story about football and of course the two bet players on the planet – Lionel Messi and Cristiano Ronaldo
 
 The two of them have been well known for scoring lots of goals throughout their career. But who has had a better scoring record and who ultimately scored more goals? Well the chart I am about to share with you will tell you more 
 
