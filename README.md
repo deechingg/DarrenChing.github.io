@@ -8,6 +8,10 @@ To get to know me better, you can visit me on [Facebook](https://www.facebook.co
 
 One of my favourite images is this of me atop Mount Rinjani in Lombok, Indonesia
 ![rinjani](http://rinjaninationalpark.com/wp-content/uploads/2016/09/gunungrinjanilombok21.jpg) 
+
+# Inforgraphic Practice 
+**01/24/2018**
+
 Infographic on Undergraduate Enrollment in Lehigh University, Fall'17
 ![Infographic Canva](https://github.com/deechingg/deechingg.github.io/blob/master/economy.png?raw=true)
 
