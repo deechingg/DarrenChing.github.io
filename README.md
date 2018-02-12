@@ -1,3 +1,5 @@
+h1 {font-family: "comic sans ms";}
+
 # About Me
 ---
 I am Darren Ching, a second year student at the Nanyang Technological University, Wee Kim Wee School of Communication and Information.
