@@ -57,3 +57,4 @@ The two of them have been well known for scoring lots of goals throughout their 
 After mapping my data on the spreadsheet and then plotting it on the chart we noticed that Messi has out scored Ronaldo on several occasions. Namely in seasons: '08, '09, '11, '12 and '16 where he actually scored close to 75 goals in the '11 season. That being said, it does not take away the fact of how great a footballer the two of them are. We are blessed indeed to live in the era of these two great soccer players. 
 
 
+<iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2%2C+col3%2C+col4%2C+col5+from+1Mvg2mA6zWGh8t43BpbA8XkcWeIVKC-N1tJBsScCq&amp;containerId=googft-gviz-canvas"></iframe>
