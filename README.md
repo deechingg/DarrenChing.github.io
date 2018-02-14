@@ -58,3 +58,4 @@ After mapping my data on the spreadsheet and then plotting it on the chart we no
 
 
 <iframe width="500" height="300" scrolling="yes" frameborder="no" src="https://fusiontables.google.com/embedviz?viz=GVIZ&amp;t=TABLE&amp;q=select+col0%2C+col1%2C+col2%2C+col3%2C+col4%2C+col5+from+1Mvg2mA6zWGh8t43BpbA8XkcWeIVKC-N1tJBsScCq&amp;containerId=googft-gviz-canvas"></iframe>
+
