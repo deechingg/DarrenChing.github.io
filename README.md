@@ -59,3 +59,6 @@ After mapping my data on the spreadsheet and then plotting it on the chart we no
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col1+from+1Mvg2mA6zWGh8t43BpbA8XkcWeIVKC-N1tJBsScCq&amp;viz=MAP&amp;h=false&amp;lat=40.61103587569824&amp;lng=-75.3731586812134&amp;t=1&amp;z=15&amp;l=col1&amp;y=3&amp;tmplt=4&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
+The next assignment we were handed had us required to make a map using Google Fusion Tables to show various places. Thinking that it will be fun to introduces places in Singapore, I made a map aimed at showing people who may have just 24 hours in Singapore the places they can go, the nature they can find and nice places to eat. 
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col3+from+14FCQNHjTbPjY-xU1WnOQjB0lz8TAzylYYDIngQbh&amp;viz=MAP&amp;h=false&amp;lat=1.4052834428019254&amp;lng=103.88126821284186&amp;t=1&amp;z=12&amp;l=col3&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
