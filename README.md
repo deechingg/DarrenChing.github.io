@@ -62,6 +62,8 @@ The next assignment we were handed had us required to make a map using Google Fu
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col3+from+14FCQNHjTbPjY-xU1WnOQjB0lz8TAzylYYDIngQbh&amp;viz=MAP&amp;h=false&amp;lat=1.3591199696950624&amp;lng=104.06425924067389&amp;t=1&amp;z=11&amp;l=col3&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
+Credit: Various Wikipedia Pages
+
 # Tableau Class Practice
 
 <div class='tableauPlaceholder' id='viz1519074964401' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TopNamesintheUnitedStates&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;TopNamesintheUnitedStates&#47;Dashboard1?:embed=y&amp;:display_count=y&amp;publish=yes' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TopNamesintheUnitedStates&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                
