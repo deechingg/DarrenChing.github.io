@@ -1,4 +1,4 @@
-#How Did I End Up Here
+# How Did I End Up Here
 
 ![comic assignment](https://github.com/deechingg/deechingg.github.io/blob/master/comic.png?raw=true)
 
