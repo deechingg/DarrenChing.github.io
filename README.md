@@ -1,3 +1,8 @@
+#How Did I End Up Here
+
+![comic assignment](https://github.com/deechingg/deechingg.github.io/blob/master/comic.png?raw=true)
+
+
 # About Me
 ---
 I am Darren Ching, a second year student at the Nanyang Technological University, Wee Kim Wee School of Communication and Information.
