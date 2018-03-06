@@ -1,4 +1,4 @@
-# How Did I End Up Here
+# How Did I End Up Here (Comic Strip Assignment)
 
 ![comic assignment](https://github.com/deechingg/deechingg.github.io/blob/master/comic.png?raw=true)
 
@@ -78,3 +78,13 @@ Credit: Various Wikipedia Pages
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+# Tableau Assignment
+
+Obesity has been a longstanding problem in America. The rising rate of obese American adults across states cannot be attributed to unhealthy food consumption alone. Instead, it is the largely inactive lifestyle Americans lead. 
+
+I decided to look into the changing obesity trends across states between 2015 and 2016. My first two sheets contained a heat map of the most obese states from rank 1 to 51. The most obese states are in the darkest shade and gets lighter to the least obese state in America. 
+
+For my third sheet, I chose to compare the change in rankings across states using the scatter plot visualization. One thing that frustrated me was not being able to put the two sets of data on the same plot and it had to be separated into two. Nonetheless, I hope the visualizations have been informative. Hover over each data set to find out more. 
+
+<div class='tableauPlaceholder' id='viz1520319260264' style='position: relative'><noscript><a href='#'><img alt='The American Obesity Problem  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C6&#47;C6M3CX4YG&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;C6M3CX4YG' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C6&#47;C6M3CX4YG&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1520319260264');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
